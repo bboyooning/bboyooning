@@ -1,6 +1,18 @@
-#### Hello, World! 👋
+### Hello, World!
 
-#### 안녕하세요. 프론트엔드 개발자 김보윤 입니다. 
+👋 Hi, I’m Boyoon Kim
+
+👋 I'm use javascript, TypeScript, React, Next.js, StyledComponent
+
+👀 I’m interested in React, Next.js webpack, SWR, @emotion
+
+🌱 I’m currently learning React, TypeScript
+
+📫 email : bboyooning@gmail.com
+
+📫 blog : https://bboyooning.tistory.com/
+
+
 
 <!--
 **bboyooning/bboyooning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
