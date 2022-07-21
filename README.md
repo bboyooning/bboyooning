@@ -10,7 +10,7 @@
 
 📫 email : bboyooning@gmail.com
 
-📫 blog : https://bboyooning.tistory.com/
+📫 blog : https://bboyooning.github.io/
 
 
 
